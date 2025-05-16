@@ -1,0 +1,2 @@
+# Diversified-Portfolio-Optimization-for-Indian-Equities-Using-Sharpe-Ratio-Maximization
+This project develops a portfolio optimization framework for the Indian equity market, selecting 25 stocks across five sectors and market caps to ensure diversification. It filters high-volatility portfolios and uses SLSQP to maximize Sharpe ratio within risk and budget limits. Backtested (2020–2025), it offers a Flask-based user tool.
